@@ -31,7 +31,7 @@ I am Google Translater bot.
 
 Send me a text and I will translate it.
 
-This is a clone of @GTranslateDCBot.You can create a your own bot by watching a small tutorial 📺
+Made by @Nischayyadav
 """
 HELP_TEXT = """
 Follow these steps..
@@ -57,21 +57,21 @@ START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Botbynischay')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Botbynischay')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Botbynischay')
         ]]
     )
 
